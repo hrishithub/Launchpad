@@ -1,3 +1,5 @@
+
+
 export const navVariants = {
   hidden: {
     opacity: 0,
@@ -159,3 +161,5 @@ export const footerVariants = {
     },
   },
 };
+
+

@@ -1,6 +1,6 @@
 'use client';
 
-import { motion } from 'framer-motion';
+import { motion } from "framer-motion";
 import { textContainer, textVariant2 } from '../utils/motion';
 
 export const TypingText = ({ title, textStyles }) => (
@@ -27,7 +27,7 @@ export const TitleText = ({ title, textStyles }) => (
   </motion.h2>
 );
 
-import { motion } from 'framer-motion';
+
 import { socials } from '../constants';
 
 import styles from '../styles';
