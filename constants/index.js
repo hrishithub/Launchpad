@@ -52,12 +52,7 @@ export const newFeatures = [
 ];
 
 export const insights = [
-  {
-    imgUrl: '/gpt.jpg',
-    title: 'ChatGPT vs BARD: Which Language Model Reigns Supreme?',
-    subtitle:
-        'ChatGPT and BARD standing out as two of the most powerful examples but what sets them apart & which one reigns supreme? Lets take a closer look.',
-  },
+
   {
     imgUrl: '/taylor.jpg',
     title: 'Taylor Swift Makes History as First Artist With Entire Top 10 on Billboard Hot 100, Led by Anti-Hero at No. 1',

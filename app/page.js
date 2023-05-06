@@ -4,14 +4,14 @@ import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World }
 const Page = () => (
   <div >
     <Navbar />
-     <Hero /> 
+     {/* <Hero />  */}
     <About />
-    <Explore />
+    {/* <Explore /> */}
     <GetStarted />
     <WhatsNew />
     <World />
     <Insights />
-    <Feedback />
+    {/* <Feedback /> */}
     <Footer />
   </div>
 );
